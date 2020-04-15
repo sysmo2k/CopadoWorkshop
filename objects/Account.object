@@ -229,6 +229,16 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Acc_Ext_ID__c</fullName>
+        <externalId>true</externalId>
+        <label>Acc Ext ID</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
